@@ -1,4 +1,4 @@
 hello
 world!!
 this is new line for second commit
-this is to modified/stage line
+this is a new line from remote
